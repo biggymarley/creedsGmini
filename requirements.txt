@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sentence-transformers
+pinecone-client
+google-generativeai
